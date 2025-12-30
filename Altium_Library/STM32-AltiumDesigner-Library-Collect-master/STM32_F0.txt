@@ -1,0 +1,2 @@
+Bu klasörde STM32F_0 Serisi Kütüphanesi bulunmaktadır. 
+Extract denilerek açılmalıdır.
